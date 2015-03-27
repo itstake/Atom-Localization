@@ -34,7 +34,7 @@ Any translation in languages not listed above are welcome, as well as better tra
 - Put the file into /i18n under root directory of the package.
 - Add your language name to languages.json under the root directory of the package.
 > {"language":"language name", "path":"../i18n/Your Translation.json"}
-- Make a pull request to the repo, or send the file to <Pandarison@gmail.com>
+- Make a pull request to the repo
 
 
 ## Release Notes
