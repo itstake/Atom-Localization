@@ -86,6 +86,7 @@
                     "Fold Level 9":{"value":"9수준 접기"}
                 }
             },
+            "Select Encoding":{"value":"인코딩 선택"},
             "Go to Line":{"value":"줄 이동"},
             "Reflow Paragraph":{"value":"문단 정렬"},
             "Reflow Selection":{"value":"선택영역 정렬"},
@@ -229,10 +230,17 @@
     "Help":{
         "value":"도움말",
         "submenu":{
-            "Documentation":{"value":"Atom 도움말"},
-            "Send Feedback":{"value":"의견 보내기"},
-            "Release Notes":{"value":"릴리스 노트"}
+            "Terms of Use":{"value":"이용 약관"},
+            "Documentation":{"value":"문서"},
+            "Roadmap":{"value":"로드맵"},
+            "Frequently Asked Questions":{"value":"자주 묻는 질문"},
+            "Community Discussions":{"value":"커뮤니티 토론"},
+            "Report Issue":{"value":"이슈 보내기"},
+            "Search Issue":{"value":"이슈 검색하기"},
+            "Send Feedback":{"value":"피드백 보내기"},
+            "Release Notes":{"value":"릴리즈 노트"}
         }
+
     }
   }
 }
